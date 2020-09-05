@@ -86,7 +86,7 @@ header {
 .thumbnail :first-child {
     background-color: white;
     padding: 10px;
-    width: 25%;
+    /* width: 25%; */
     text-align: center;
 }
 
